@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @5dBeef
+- decentralized.social....
+- on evm's.....
+- new narrative .....
+
+<!---
+5dBeef/5dBeef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
